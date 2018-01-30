@@ -8,6 +8,11 @@
   height: 70vh;
 }
 
+.opacity {
+opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
 .letter-white {
   color:#ffff;
   outline-color: 1px solid black;
@@ -22,9 +27,6 @@
   width: 45vh;
 }
 
-.footer-init {
-  height: 1vh;
-}
 
 .btn-down {
   margin-top: 20vh;
@@ -34,4 +36,14 @@
 .btn-down2 {
   margin-top: 10vh;
   margin-left: 5vh;
+}
+
+.letter-writte {
+  font-family: 'Special Elite', cursive;
+  font-size: 5vh;
+}
+
+
+.footer-color {
+  background-color: #448597;
 }
