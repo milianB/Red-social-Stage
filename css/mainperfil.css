@@ -1,0 +1,31 @@
+
+/*imagen de fondo de jumbotron*/
+.background-image {
+  background-image: url("../assets/images/acuarela.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:right;
+  height: 70vh;
+}
+
+.img-thumbnail {
+  width: 30vh;
+  border-radius: 100%;
+  margin-left: 5vh;
+}
+
+.btn-line {
+  background-color: transparent;
+  border-color: black;
+  color: black;
+}
+
+.letter-white {
+  color:#ffff;
+  outline-color: 1px solid black;
+}
+
+.logo {
+  width: 30vh;
+
+}
