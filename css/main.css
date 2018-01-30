@@ -1,11 +1,11 @@
 
 /*imagen de fondo de jumbotron*/
-.my-4 {
+.background-init {
   background-image: url("../assets/images/stage.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position:right;
-  height: 70vh;
+  height: 85vh;
 }
 
 .opacity {
@@ -19,23 +19,31 @@ opacity: 0.4;
 }
 
 .btn-line {
-  background-color: transparent;
-  border-color: white;
+  background-color: #98cbbc;
+  border-color: black;
+  color:black;
 }
 
 .logo {
-  width: 45vh;
+  width: 50vh;
+  margin-top: 30vh;
+  margin-left: 1vh;
 }
 
 
 .btn-down {
-  margin-top: 20vh;
+  margin-top: 10vh;
   margin-left: 0vh;
 }
 
 .btn-down2 {
   margin-top: 10vh;
   margin-left: 5vh;
+}
+
+.btn-down1 {
+  margin-bottom: 1vh;
+  margin-left: 2vh;
 }
 
 .letter-writte {
@@ -45,5 +53,9 @@ opacity: 0.4;
 
 
 .footer-color {
-  background-color: #448597;
+  background-color:#8c1226;
+}
+
+.nav-color {
+  background-color:#8c1226 ;
 }

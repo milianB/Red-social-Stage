@@ -22,10 +22,35 @@
 
 .letter-white {
   color:#ffff;
-  outline-color: 1px solid black;
+
+}
+.blue-background {
+background-color: #B6CED3;
 }
 
 .logo {
   width: 30vh;
+}
 
+.letter-logo {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 5vh;
+  text-align: center;
+}
+
+.letter-sans {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 3vh;
+}
+
+.letter-writte {
+font-family: 'Supermercado One', cursive;
+}
+
+.footer-color {
+  background-color:#8c1226;
+}
+
+.color-beige {
+  background-color:#ffffcc;
 }

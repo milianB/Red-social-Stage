@@ -2,11 +2,80 @@
   background-color: transparent;
   border-color: black;
   color: black;
-  margin-top: 6vh;
+  margin-top: 8vh;
   font-size: 5vh;
 }
 
 .photo {
   width: 18vh;
   height: 18vh;
+}
+
+.footer-color {
+  background-color:#8c1226;
+}
+
+.nav-color {
+  background-color:#8c1226 ;
+}
+
+.letter-logo {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 5vh;
+}
+
+.letter-writte {
+font-family: 'Supermercado One', cursive;
+}
+
+.letter-sans {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 5vh;
+}
+
+.btn-down {
+
+  color:white;
+  margin-top: 10vh;
+  font-size: 5vh;
+}
+
+.brown-color{
+  background-color: #cc6633;
+}
+
+.letter-logo {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 5vh;
+  text-align: center;
+}
+
+.color-tittle-idea {
+  text-align: center;
+  font-family: 'Fjalla One', sans-serif;
+  color: #8c1226;
+}
+
+.letter-sans {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 3vh;
+}
+
+.size-letter-1 {
+font-size: 3.5vh;
+text-align: center;
+}
+
+.background-card {
+  background-color: #112e68;
+}
+
+.letter-white {
+color:white;
+}
+
+.btn-blue {
+  background-color: #112e68;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 5vh;
 }
